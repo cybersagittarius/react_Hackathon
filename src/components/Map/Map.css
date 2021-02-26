@@ -1,0 +1,16 @@
+svg {
+    width: 80vw;
+    transform: scale(1);
+}
+
+path {
+    fill: rgb(224, 101, 101); 
+    stroke: rgb(247, 247, 247); 
+    stroke-width: 1.54083px;
+}
+
+path:hover {
+    fill: green; 
+    stroke: rgb(247, 247, 247); 
+    stroke-width: 1.54083px;
+}
