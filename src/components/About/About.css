@@ -1,0 +1,17 @@
+#About {
+width: 80vw;
+   border: 2px solid black;
+   text-align: center;
+   }
+
+#txt-pick {
+    display: flex;
+     flex-direction: row; 
+    justify-content: center;
+    flex-wrap: nowrap;
+
+}
+
+img {
+    width: 30%;
+}
