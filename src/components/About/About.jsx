@@ -7,7 +7,7 @@ export default function (props) {
         <div id="About">
             <div id="txt-pick">
                 <img src="./assets/about-img.png" alt="" />
-                <div>
+                <div id = "text">
                     <p>
                         Millions of people cross the oceans and land in order to reach Europe, fleeing their homes and the dire situations there in search of safety and comfort. While reaching their destination is a great accomplishment but they are still far away from settlement and stability, they have to integrate into the new society of the host country.
                     </p>
@@ -16,7 +16,7 @@ export default function (props) {
                     </p>
                 </div>
             </div>
-            <button>Test</button>
+            <button className="button" style={{verticalAlign: 'middle'}}><span>Learn more</span></button>
         </div>
 
     );
